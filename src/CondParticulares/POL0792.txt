@@ -1,0 +1,253 @@
+
+
+
+Deducible UF 5                                                        
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF 5,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 5,0                                                                
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 5,0                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 5,0                                                                
+Granizo                                 	|CAD120160075                            	|UF 5,0                                                                
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 5,0                                                                
+Sismo                                   	|CAD120160076                            	|UF 5,0                                                                
+Deducible UF 10                                                       
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF10,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 10,0                                                               
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 10,0                                                               
+Actos Maliciosos                        	|CAD120160083                            	|UF 10,0                                                               
+Granizo                                 	|CAD120160075                            	|UF 10,0                                                               
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 10,0                                                               
+Sismo                                   	|CAD120160076                            	|UF 10,0                                                               
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales por la Propia Carga    	|CAD 1 2016 0077                         	|UF 3,0                                                                
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales por la Propia Carga    	|CAD 1 2016 0077                         	|UF 5,0                                                                
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales por la Propia Carga    	|CAD 1 2016 0077                         	|UF 7,0                                                                
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales por la Propia Carga    	|CAD 1 2016 0077                         	|UF 10,0                                                               
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales Conductor Dependiente  	|CAD 1 2016 0081                         	|UF 3                                                                  
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales Conductor Dependiente  	|CAD 1 2016 0081                         	|UF 5                                                                  
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales Conductor Dependiente  	|CAD 1 2016 0081                         	|UF 7                                                                  
+.                                                                     
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales Conductor Dependiente  	|CAD 1 2016 0081                         	|UF 10                                                                 
+
+
+
+
+
+
+COMISIONES                                                            
+COMISIONES:                                                           
+Comisión del Corredor: 22 % de la Prima Neta.                         
+- Mesos Corredora de Seguros                                          
+- Rut: 76.089.404-4                                                   
+.                                                                     
+DEDUCIBLE TRANSITORIO PARA VEHÍCULOS ASEGURADOS SIN INSPECCIÓN:       
+DEDUCIBLE TRANSITORIO PARA VEHÍCULOS ASEGURADOS SIN INSPECCIÓN:       
+Para  el  caso  que  el  vehículo  asegurado  se  haya  asegurado  sin
+inspección, se podrán aplicar los siguientes deducibles:              
+.                                                                     
+a)  Para  las  coberturas  de  daños  al vehículo asegurado: Deducible
+equivalente al 10% de la pérdida con un mínimo de UF 30;              
+.                                                                     
+b)  Para  la cobertura de robo de accesorios: Deducible equivalente al
+90% de la pérdida con un mínimo de UF 75; y                           
+.                                                                     
+c)  Para  las coberturas de robo, hurto y uso no autorizado: Deducible
+equivalente al 90% de la pérdida con un mínimo de UF 75.              
+.                                                                     
+La  inspección  del  vehículo  deberá  ser  realizada  en  un plazo no
+superior  a  10  días  desde  el  inicio  de  vigencia. La compañía de
+seguros  o  un tercero autorizado por esta contactará al asegurado vía
+telefónica  al  número  indicado  en  póliza,  con  el fin facilitar y
+coordinar  la  realización de la inspección en un lugar a definir. Sin
+perjuicio de lo anterior, el asegurado podrá coordinar directamente la
+inspección  a  través de Mesos corredora de seguros llamando al número
+600 6000 212 o al número 22756 4050.                                  
+.                                                                     
+Realizada   la   inspección   del   vehículo   asegurado,  si  no  hay
+observaciones,  regirá  la  cobertura contratada sin las restricciones
+señaladas  precedentemente,  aplicándose los otros deducibles, límites
+y  condiciones  de  aplicación  general  contenidos  en  las presentes
+condiciones particulares.                                             
+.                                                                     
+Por el contrario, si con motivo de la inspección realizada al vehículo
+asegurado  surgieran  observaciones  específicas,  se  mantendrán  los
+deducibles  establecidos  en  las tres letras precedentes, a menos que
+el   contratante,   asegurado   o   la   persona  que  actúe  bajo  su
+representación  acepten  la  constitución de otros nuevos deducibles o
+restricciones  de  cobertura,  bajo  su firma en la respectiva acta de
+inspección,   lo   que   dará   lugar   a   la   emisión   del  endoso
+correspondiente.                                                      
+INSPECCIÓN DE RIESGO Y DEDUCIBLE PROVISORIO                           
+INSPECCIÓN DE RIESGO Y DEDUCIBLE PROVISORIO                           
+La  Compañía  podrá  inspeccionar  la  materia asegurada, para lo cual
+deberá  coordinarse previamente con el asegurado, debiendo este último
+otorgarle   todas   las  facilidades  que  le  permitan  efectuar  tal
+inspección.                                                           
+.                                                                     
+El  plazo  para  realizar  la inspección del bien asegurado será de 15
+Días Corridos desde la fecha de contratación del seguro.              
+.                                                                     
+Para  los  siniestros  ocurridos  entre  la fecha de contratación y la
+inspección  efectiva del riesgo se aplicarán los siguientes deducibles
+provisorios.                                                          
+a)  Para  las  coberturas  de  daños  al vehículo asegurado: Deducible
+equivalente al 10% de la pérdida con un mínimo de UF 50;              
+b)  Para  la cobertura de robo de accesorios: Deducible equivalente al
+90% de la pérdida con un mínimo de UF 75; y                           
+c)  Para  las coberturas de robo, hurto y uso no autorizado: Deducible
+equivalente al 90% de la pérdida con un mínimo de UF 75.              
+.                                                                     
+Realizada   la   inspección   del   vehículo   asegurado,  si  no  hay
+observaciones,  regirá  la  cobertura contratada sin las restricciones
+señaladas  precedentemente,  aplicándose los otros deducibles, límites
+y  condiciones  de  aplicación  general  contenidos  en  las presentes
+condiciones particulares.                                             
+.                                                                     
+Por el contrario, si con motivo de la inspección realizada al vehículo
+asegurado  surgieran  observaciones  específicas,  se  mantendrán  los
+deducibles  establecidos  en  las tres letras precedentes, a menos que
+el   contratante,   asegurado   o   la   persona  que  actúe  bajo  su
+representación  acepten  la  constitución de otros nuevos deducibles o
+restricciones  de  cobertura,  bajo  su firma en la respectiva acta de
+inspección,   lo   que   dará   lugar   a   la   emisión   del  endoso
+correspondiente.                                                      
+.                                                                     
+Si  luego  de  la inspección, el riesgo no cumple con los criterios de
+asegurabilidad  del  Asegurador,  dará  derecho  a  la  Compañía  para
+terminar el contrato de seguros.                                      
+.                                                                     
+El  contratante  y/o  asegurado aceptan que si una persona distinta de
+ellos  es quien lleva el vehículo asegurado a inspeccionar, para todos
+los  efectos  legales  del  presente contrato se entenderá que aquella
+gozará   de  facultad  y  representación  suficiente  para  firmar  la
+respectiva acta de inspección.                                        
+.                                                                     
+En  caso  de  no  verificarse  la  inspección en el plazo definido por
+causas  imputables  al  asegurado,  la  Compañía  podrá  poner término
+anticipado  a  la póliza de acuerdo a lo establecido en el artículo 29
+del  POL  120160071,  manteniendo  este  deducible provisorio hasta el
+término efectivo de la póliza.                                        
+En  caso  de  que  la  Compañía  no  ejerza  el  derecho  de  cancelar
+anticipadamente  la  póliza, este deducible provisorio se extinguirá a
+los  31  días  corridos  desde  las  fecha de inicio de vigencia de la
+misma, sin necesidad de notificación alguna.                          
+.                                                                     
+IMPORTANTE.  La realización de la inspección del vehículo asegurado, y
+la  correspondiente  aplicación  de  los  deducibles  provisorios,  no
+procederá  en el caso de vehículos nuevos, los cuáles serán asegurados
+en  base  a  la  información  contenida  en  la  respectiva factura de
+compra.  No  obstante,  la  factura no podrá exceder 48 horas desde su
+emisión  al momento de la contratación del seguro. De lo contrario, el
+vehículo  asegurado  deberá  ser inspeccionado de acuerdo a las normas
+señaladas   en   esta   póliza,  rigiendo  plenamente  los  deducibles
+provisorios respectivos.                                              
+.                                                                     
+Deducible 0                                                           
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 2,5                                                                
+Deducible UF 3                                                        
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF 3,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 3,0                                                                
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 3,0                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 3,0                                                                
+Granizo                                 	|CAD120160075                            	|UF 3,0                                                                
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 3,0                                                                
+Sismo                                   	|CAD120160076                            	|UF 3,0                                                                
+Daños Materiales por Conductores Dependi	|CAD120160081                            	|UF 3,0                                                                
+Daños Materiales Causados por la Propia 	|CAD120160077                            	|UF 3,0                                                                
+Deducible UF 5                                                        
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF 5,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 5,0                                                                
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 5,0                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 5,0                                                                
+Granizo                                 	|CAD120160075                            	|UF 5,0                                                                
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 5,0                                                                
+Sismo                                   	|CAD120160076                            	|UF 5,0                                                                
+Daños Materiales por Conductores Dependi	|CAD120160081                            	|UF 5,0                                                                
+Daños Materiales Causados por la Propia 	|CAD120160077                            	|UF 5,0                                                                
+Deducible UF 10                                                       
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF10,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 10,0                                                               
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 10,0                                                               
+Actos Maliciosos                        	|CAD120160083                            	|UF 10,0                                                               
+Granizo                                 	|CAD120160075                            	|UF 10,0                                                               
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 10,0                                                               
+Sismo                                   	|CAD120160076                            	|UF 10,0                                                               
+Daños Materiales por Conductores Dependi	|CAD120160081                            	|UF 10,0                                                               
+Daños Materiales Causados por la Propia 	|CAD120160077                            	|UF 10,0                                                               
+DEFENSA PENAL Y CONSTITUCIÓN DE FIANZAS                               
+La  presente  póliza cubre el riesgo indicado en la CAD 1 2016 0079 de
+la S.V.S.- hasta UF 150                                               
+Deducible UF 3                                                        
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF 3,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 3,0                                                                
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 3,0                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 3,0                                                                
+Granizo                                 	|CAD120160075                            	|UF 3,0                                                                
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 3,0                                                                
+Sismo                                   	|CAD120160076                            	|UF 3,0                                                                
+Deducible UF 5                                                        
+Rigen  los  siguientes  deducibles  obligatorios, aplicables en toda y
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL120160071                            	|UF 5,0                                                                
+Robo, hurto o uso no autorizado         	|POL120160071                            	|UF 5,0                                                                
+Robo Accesorios                         	|CAD120160072                            	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD120160073                            	|UF 5,0                                                                
+Actos Maliciosos                        	|CAD120160083                            	|UF 5,0                                                                
+Granizo                                 	|CAD120160075                            	|UF 5,0                                                                
+Riesgos de la Naturaleza                	|CAD120160074                            	|UF 5,0                                                                
+Sismo                                   	|CAD120160076                            	|UF 5,0                                                                
+
+
+
+
+DOMICILIO                                                             
+Para  todos  los efectos del presente contrato de seguro, se fija como
+domicilio  de  la  Compañía  de  Seguros,  O  Connell 285, Las Condes,
+Región Metropolitana.                                                 
+.                                                                     
+
+
+
+

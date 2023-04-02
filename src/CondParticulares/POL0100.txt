@@ -1,0 +1,541 @@
+DEDUCIBLE UF 3                                                        
+Rigen  los  siguientes  deducibles obligatorios, aplicables en toda y 
+cada pérdida:                                                         
+Cobertura                               	|Código Registro S.V.S.                  	|Deducible                                                             
+Daños Materiales                        	|POL 1 2013 0214                         	|UF 3,0                                                                
+Robo, hurto o uso no autorizado         	|POL 1 2013 0214                         	|UF 3,0                                                                
+Robo Accesor.(hasta 10% valor comercial)	|CAD 1 2013 0335                         	|UF 2,5                                                                
+Huelga y Terrorismo                     	|CAD 1 2013 0336                         	|UF 3,0                                                                
+Actos Maliciosos                        	|CAD 1 2013 0337                         	|UF 3,0                                                                
+Granizo                                 	|CAD 1 2013 0339                         	|UF 3,0                                                                
+Riesgos de la Naturaleza                	|CAD 1 2013 0338                         	|UF 3,0                                                                
+Sismo                                   	|CAD 1 2013 0340                         	|UF 3,0                                                                
+.                                                                     
+.                                                                     
+DEDUCIBLE INTELIGENTE                                                 
+La   cláusula   de   Deducible   inteligente   tiene   las  siguientes
+consideraciones   a  manejar  para  la  correcta  aplicación  de  este
+deducible:                                                            
+1.  El  deducible establecido, no se aplicará cuando exista un tercero
+claramente identificado y definitivamente culpable.                   
+.                                                                     
+2.  El  tercero se entenderá claramente identificado cuando se conozca
+el  RUT, nombre, la dirección y el teléfono del conductor, la patente,
+marca y el color del vehículo del tercero.                            
+.                                                                     
+3.  El tercero se entenderá definitivamente culpable, para los efectos
+de  aplicar  el  Deducible  Inteligente,  solamente  en los siguientes
+casos:                                                                
+- Tercero se declara culpable.                                        
+- El Tercero no respeta letrero Pare o Ceda el Paso.                  
+- El Tercero Choca por atrás.                                         
+.                                                                     
+Es  condición obligatoria, que la identificación del tercero, como las
+situaciones   descritas   en   el  punto  anterior  queden  claramente
+especificadas  en el Parte Policial o en la declaración jurada y en la
+denuncia  a  la  compañía.  El  deducible inteligente sólo se aplica a
+pólizas  que  sean contratadas con deducible voluntario con un TOPE de
+UF  5  y  cuando NO SE DEN TODAS ESTAS CONDICIONES se aplicará sólo el
+deducible estipulado en póliza.                                       
+CLAUSULA DE RENOVACIÓN AUTOMÁTICA                                     
+CLÁUSULA DE RENOVACIÓN AUTOMÁTICA                                     
+El  presente  seguro se renovará automáticamente a su vencimiento, por
+periodos  iguales  y  sucesivos de un año, salvo que cualquiera de las
+partes  comunique  a la otra su intención de ponerle término, mediante
+comunicación  con  30  días  de  anticipación  a la fecha de término o
+cualquiera de sus prórrogas.                                          
+Las  partes  acuerdan,  que  la  Compañía Aseguradora podrá ajustar el
+monto  de  la prima en razón al número de siniestros ocurridos durante
+cada vigencia y a los siguientes porcentajes de recargo máximos.      
+.                                                                     
+Número de Siniestros durante cada vigenc	|Porcentaje de recargo máximo                                          
+1                                       	|30%                                                                   
+2                                       	|40%                                                                   
+3 o más                                 	|50%                                                                   
+.                                                                     
+.                                                                     
+Asimismo,  las  partes  acuerdan que la compañía podrá incrementar las
+primas  hasta  un  máximo del 50 %, si se dan alguno de los siguientes
+casos:                                                                
+.                                                                     
+1. Un alza de costos de repuestos,                                    
+2.  Aumento  en  la  frecuencia  de  robo  de alguna marca o modelo de
+vehículo, o                                                           
+3.  Variación  en  algún  factor  que  aumente la siniestralidad de la
+cartera,  ya  sea que la póliza hubiere o no tenido siniestros durante
+su última vigencia.                                                   
+.                                                                     
+En caso de que exista un ajuste, este regirá a contar de la renovación
+de la póliza.                                                         
+CONDICIONES PARTICULARES DEL SEGURO                                   
+CONDICIONES PARTICULARES DEL SEGURO                                   
+.                                                                     
+CLAUSULA ESPECIAL EN CASO DE SINIESTRO                                
+En   caso   de  ocurrencia  de  uno  de  los  siniestros  indicados  a
+continuación,  el cliente podrá contactar directamente a la compañía a
+través  del  CRI  (Call  Center)  sin acudir previamente a Carabineros
+para  presentar  la Constancia respectiva. Los siniestros considerados
+para estos efectos son:                                               
+- Rotura de cristales (independiente de la causa)                     
+- Daños en el parabrisas (independiente de la causa)                  
+- Daños en focos                                                      
+- Robo de espejos                                                     
+- Rayones menores por actos maliciosos                                
+.                                                                     
+CLAUSULA DE INDEMNIZACION CERO KILOMETRO                              
+Rige  para  vehículos que cumplan con las siguientes características a
+la fecha de ocurrencia del siniestro:                                 
+1.  Tener  menos  de 24 meses de antiguedad contados desde la fecha de
+facturación.                                                          
+2. Ser primera venta facturada a nombre del asegurado.                
+En caso de Pérdida Total o Robo del vehículo asegurado, se indemnizará
+al  asegurado en dinero o especie, a elección de la Compañía, el valor
+de  un  vehículo  de  la misma marca, modelo y versión cero kilómetro,
+sin  aplicar  depreciación por uso. De no existir el mismo vehículo en
+plaza,  la  Compañía  indemnizará  en  dinero  o  especie, un vehículo
+equivalente.                                                          
+.                                                                     
+RESPONSABILIDAD CIVIL (INDEPENDIENTE)                                 
+No obstante lo indicado en el detalle de coberturas del presente ítem,
+las  coberturas de Responsabilidad Civil, Daño Emergente, Daño Moral y
+Lucro Cesante, son independientes entre sí.                           
+EXCLUSIVIDAD DE TALLER                                                
+- Taller de Marca: Cada vez que su vehículo deba ser reparado producto
+de  un  siniestro cubierto por la presente póliza, Éste será llevado a
+un  taller representante de la marca del auto asegurado o identificado
+en esta póliza, para garantizar así el trabajo a realizar.            
+-  Repuestos Originales y Garantía: La reparación en caso de siniestro
+será  con  repuestos  originales  de  la  marca,  lo  que  nos permite
+garantizar  el  correcto funcionamiento y mantención de este posterior
+a su reparación.                                                      
+-  Garantía  de  Reparación:  BCI  Seguros  garantiza  por  1  año las
+reparaciones  efectuadas al vehículo asegurado, producto de siniestros
+cubiertos e indemnizados por la presente póliza.                      
+.                                                                     
+ASISTENCIA AL VEHICULO PARTICULAR (POL 1 2014 0303)                   
+.                                                                     
+ASISTENCIA VEHICULAR POR AVERIA O ACCIDENTE                           
+COBERTURA: Remolque o transporte por avería o accidente del vehículo  
+LIMITE: UF10                                                          
+AT: PL                                                                
+.                                                                     
+COBERTURA: Servicio de reparación in situ                             
+LIMITE: Ilimitado                                                     
+AT: CL                                                                
+.                                                                     
+COBERTURA:  Transporte,  deposito  o  custodia del vehículo reparado o
+recuperado                                                            
+LIMITE: UF8                                                           
+AT: PL                                                                
+.                                                                     
+COBERTURA: Servicio de conductor profesional                          
+LIMITE: Ilimitado                                                     
+AT: PL                                                                
+.                                                                     
+COBERTURA: Localización y envió de repuestos                          
+LIMITE: Ilimitado                                                     
+AT: CL                                                                
+.                                                                     
+ASISTENCIA A PERSONAS POR AVERÍA O ACCIDENTE DEL VEHÍCULO             
+COBERTURA:   Estancia   y   desplazamiento   de   los   clientes   por
+inmovilización del vehículo                                           
+LIMITE: UF3/día; máximo UF4                                           
+AT: PL                                                                
+.                                                                     
+COBERTURA:  Estancia  y  desplazamiento  de  los clientes por robo del
+vehículo                                                              
+LIMITE: UF3/día; máximo UF4                                           
+AT: PL                                                                
+.                                                                     
+COBERTURA: Transmisión de mensajes urgentes                           
+LIMITE: Ilimitado                                                     
+AT: PL                                                                
+.                                                                     
+COBERTURA: Transporte de acompañantes en caso de accidente de tránsito
+del vehículo                                                          
+LIMITE: Ilimitado                                                     
+AT: PL                                                                
+.                                                                     
+ASISTENCIA  LEGAL  POR  ACCIDENTE,  INFRACCIONES  Y  TRAMITACIONES DEL
+VEHÍCULO                                                              
+COBERTURA: Asistencia legal en gestiones de excarcelación             
+LIMITE: UF 6                                                          
+AT: PL                                                                
+.                                                                     
+COBERTURA: Anticipo de fianzas                                        
+LIMITE: UF 6                                                          
+AT: PL                                                                
+Asistencia Preventiva Automotriz                                      
+.                                                                     
+COBERTURA: Vehículo de reemplazo para catalíticos en caso de          
+restricción vehicular                                                 
+LÍMITE: Ilimitado con copago $4.000                                   
+AT: CL                                                                
+.                                                                     
+COBERTURA:   Vehículo   de  reemplazo  para  catalíticos  en  caso  de
+restricción vehicular                                                 
+LÍMITE: 1 evento al año con copago $4.000                             
+AT: CL                                                                
+.                                                                     
+COBERTURA: Conductor de reemplazo                                     
+LÍMITE:  4  eventos  al año sin costo; con copago $20.000 a partir del
+5to evento.                                                           
+AT: CL                                                                
+.                                                                     
+AT: Ámbito territorial de la cobertura.                               
+CL: Cobertura sólo en Chile (excluye islas, salvo Chiloé).            
+PL: Cobertura en Chile y países limítrofes.                           
+DESCRIPCION DE COBERTURAS                                             
+Remolque o transporte                                                 
+En caso de que el vehículo no pudiera circular por avería o accidente,
+el  servicio de asistencia se hará cargo del remolque o transporte con
+un tope de UF 10 hasta el taller que indique el titular.              
+Esta  prestación  contempla el traslado del titular y sus acompañantes
+hasta el taller o hasta su domicilio.                                 
+Reparación in situ                                                    
+Si una avería o accidente impidiera que el vehículo cubierto circulara
+por  sus  propios  medios,  el servicio de asistencia proporcionará la
+ayuda  técnica necesaria para intentar una reparación de emergencia, a
+fin de que éste pueda continuar su viaje.                             
+Su  alcance  no  superará  el  correspondiente a media hora de mano de
+obra,  en el lugar donde se haya producido el hecho, quedando excluido
+de  esta  prestación  el  costo  de  las  piezas de recambio que fuera
+necesario  sustituir.  Incluye  los  servicios de cambio de neumático,
+puesta  en  marcha por batería descargada, reposición de combustible y
+apertura  de  puertas.  En  caso  de  que  el  vehículo no pudiera ser
+reparado  en  el  tiempo  indicado,  entrará en vigor la prestación de
+remolque.                                                             
+.                                                                     
+NOTA: El servicio de entrega de combustible está disponible a 2 km del
+domicilio  registrado  por el titular, siempre y cuando el vehículo no
+pueda  circular por falta de éste; incluye 5 litros de combustible con
+costo para el cliente.                                                
+Transporte, depósito o custodia del vehículo reparado o recuperado    
+Si  la reparación del vehículo requiere de un tiempo de inmovilización
+superior  a  72 horas o, en caso de robo, si el vehículo es recuperado
+después  que  el cliente se haya desplazado del lugar del percance, el
+servicio  de asistencia suministrará los fondos pertinentes hasta UF 8
+por  concepto de custodia o deposito del vehículo recuperado, así como
+el transporte para llegar al lugar donde haya sido recuperado.        
+Servicio de Conductor profesional                                     
+En  caso  de  imposibilidad  del titular para conducir el vehículo por
+enfermedad  o accidente durante el desplazamiento, y si ninguno de los
+acompañantes  pudiera  sustituirlo  con  la  debida  habilitación,  el
+servicio  de  asistencia  proporcionará a su propio cargo un conductor
+profesional  para  trasladar el vehículo hasta el domicilio habitual o
+destino previsto en el viaje, siempre que éste se encuentre dentro del
+ámbito territorial cubierto por el servicio.                          
+Localización y envío de repuestos                                     
+El  servicio  de  asistencia  se  encargará de localizar las piezas de
+recambio  necesarias  para la reparación del vehículo cubierto, cuando
+no fuera posible su obtención en el lugar de reparación, asumiendo los
+gastos  de  envío  de  dichas  piezas  al taller donde se encuentre el
+vehículo,  siempre  que ellas estén a la venta en Chile. Será de cargo
+del titular el valor de las piezas de recambio.                       
+Estancia y desplazamiento de clientes por inmovilización vehículo     
+En  caso  de avería o accidente del vehículo que cause su inmovilidad,
+el servicio de asistencia sufragará los siguientes gastos:            
+I.  Traslado  en  taxi  a  la  ciudad  más  próxima al evento donde es
+remolcado el vehículo asistido.                                       
+II.  La  estadía en hotel a razón de UF 2 por día, con un máximo total
+de  UF 4 por pasajero, siempre que la reparación del vehículo no pueda
+ser  efectuada  en  el  mismo día de su inmovilización y requiera para
+ser  hecha  un  máximo  de  tiempo  superior  de  2  horas,  según  el
+responsable del taller.                                               
+III.  El  desplazamiento  para  el  traslado terrestre del conductor y
+acompañante   hasta  domicilio  habitual  en  Chile,  siempre  que  la
+reparación  no  pueda  ser  efectuada  en las 48 horas siguientes a la
+inmovilización  y  requiera  de un tiempo superior a 6 horas, según el
+criterio   del   responsable   del  taller.  Si  el  conductor  y  los
+acompañantes   optan  por  la  continuación  del  viaje,  el  Servicio
+sufragará  los  gastos  de  desplazamiento  hasta  el lugar de destino
+previsto,  siempre que el costo no supere el de la prestación a la que
+se refiere el párrafo anterior.                                       
+Estancia y desplazamiento de los clientes por robo del vehículo       
+En  caso  de  robo  del  vehículo  y una vez cumplidos los trámites de
+denuncia  a  las  autoridades  competentes,  el servicio de asistencia
+otorgará las mismas prestaciones detalladas en la cobertura anterior. 
+Transmisión de mensajes urgentes                                      
+El  servicio  de  asistencia  realizará la transmisión de mensajes con
+carácter  urgente  del  titular,  relacionados  con  cualquiera de las
+prestaciones aquí involucradas producto de la contingencia.           
+Transporte  de  acompañantes  en  caso  de  accidente  de tránsito del
+vehículo                                                              
+Cuando  la  lesión  de uno de los ocupantes impida la continuación del
+viaje,  el  servicio de asistencia sufragará los gastos de traslado de
+las  restantes personas que le acompañen hasta su domicilio habitual o
+lugar donde aquél se encuentre hospitalizado.                         
+Si  alguna  de  dichas  personas  fuera  un  hijo menor de 15 años del
+ocupante  trasladado o repatriado y no tuviera quién lo acompañase, el
+servicio  de  asistencia proporcionará la persona adecuada para que le
+atienda   durante   el   viaje   hasta   su   domicilio   o  lugar  de
+hospitalización.                                                      
+Asistencia legal en gestiones de excarcelación                        
+En  caso de que el titular del vehículo cubierto fuese detenido por la
+eventual  responsabilidad civil o penal que le cabe en un accidente de
+tránsito,    el    servicio   de   asistencia   asumirá   los   gastos
+correspondientes  a  la defensa jurídica hasta lograr la excarcelación
+del mismo, con un límite máximo de UF 6                               
+Anticipo de Fianzas                                                   
+El servicio de asistencia constituirá por cuenta del titular la fianza
+que  los tribunales exijan para garantizar su libertad provisional, en
+el   procedimiento  penal  respectivo  seguido  por  un  accidente  en
+circulación  en que el cliente fuera conductor hasta un máximo de UF 3
+Cuando  la fianza quede sin efecto su monto deberá ser restituido a la
+empresa de asistencia.                                                
+Servicio de Conductor de Reemplazo                                    
+En  caso  de estar el titular imposibilitado para conducir el vehículo
+por  ingesta de alcohol, involucrando con ello riesgo de accidente, el
+servicio  de asistencia proporcionará, a su propio cargo, un conductor
+profesional  para conducir el vehículo, con o sin sus ocupantes, hasta
+donde indique el cliente.                                             
+Este  servicio se entregará previa autorización del dueño del vehículo
+a  conducir,  para  lo  cual  se  dejará  grabada la solicitud y dicho
+salvoconducto.  Por  otro  lado, se dejará constancia de los artículos
+y/o  daños pre-existentes del vehículo al momento de ser recibido para
+su   conducción  en  el  correspondiente  Registro  de  Prestación  de
+Servicio  (RPS)  y  en  el  caso de existir daños se procederá a tomar
+fotografías de los mismos.                                            
+.                                                                     
+CONDICIONES Y RESTRICCIONES DE LA COBERTURA                           
+-  Sujeto del servicio: Vehículo inscrito. Puede ser solicitado por el
+titular o familiar directo (hijos y/o cónyuge).                       
+- Ámbito territorial del servicio: Capitales provinciales de Chile con
+un  radio  máximo  de  20 Km. Desde las plazas de armas. Incluye todas
+las comunas de la R.M.                                                
+- Destinos incluidos: 1 origen, 1 destino.                            
+- Horario del servicio: Continuado.                                   
+- Duración máxima del servicio: 60 minutos.                           
+- Tiempo máximo de espera chofer: 15 minutos.                         
+- Solicitud previa / agendamiento: 2 horas.                           
+- Límite de eventos sin costo: 4 eventos al año.                      
+- Costo tarifa base (desde 5to evento): $ 20.000 IVA incluido         
+-  Tarifa  por Km. en exceso de servicio (desde 1er evento): $ 900 IVA
+incluido por km. en exceso de 20.                                     
+-  Tarifa  por  destino  adicional  (desde  1er  evento): $ 20.000 IVA
+incluido                                                              
+- Tarifa por minutos en exceso de servicio (desde 1er evento): $ 2.500
+IVA incluido cada 15 minutos o fracción.                              
+-   Fechas  excluidas  en  el  servicio:  Fiestas  Patrias  (18  y  19
+septiembre),  Navidad  (24 y 25 diciembre) y Año Nuevo (31 diciembre y
+1  enero),  incluyendo  festivos  adicionales  que  se  agreguen a las
+mismas.                                                               
+.                                                                     
+Conducción a la Mantención                                            
+Un  conductor  profesional  hará el retiro del vehículo desde donde el
+titular  lo  solicite  y a la hora que se convenga para trasladarlo al
+taller  de  la  marca  para realizar la mantención por kilometraje que
+corresponda.  Luego  de  realizada  la gestión, se hará devolución del
+vehículo al titular en el lugar donde éste indique.                   
+Este  servicio se entregará previa autorización del dueño del vehículo
+a  conducir,  para  lo  cual  se  dejará  grabada la solicitud y dicho
+salvoconducto.  Por  otro  lado, se dejará constancia de los artículos
+y/o  daños pre-existentes del vehículo al momento de ser recibido para
+su   conducción  en  el  correspondiente  Registro  de  Prestación  de
+Servicio  (RPS)  y  en  el  caso de existir daños se procederá a tomar
+fotografías de los mismos.                                            
+.                                                                     
+CONDICIONES Y RESTRICCIONES DE LA COBERTURA                           
+-  Sujeto  del servicio: Vehículo inscrito por el titular que requiera
+mantención por kilometraje.                                           
+- Ámbito territorial del servicio: Capitales provinciales de Chile con
+un  radio  máximo  de  20 Km. desde las plazas de armas. Incluye todas
+las comunas de la Región Metropolitana.                               
+- Horario del servicio: lunes a viernes, de 8:00 a 17:00 horas.       
+- Tiempo máximo de espera chofer: 15 minutos.                         
+- Solicitud previa / agendamiento: 7 días corridos.                   
+- Límite de eventos: 1 evento al año.                                 
+- Copago por evento: $4.000.                                          
+-  Vehículo  de  reemplazo:  3  días  hábiles y corridos sin copago; a
+partir del 4to día un copago de $8.000.                               
+.                                                                     
+Vehículo   de  reemplazo  para  catalíticos  en  caso  de  restricción
+vehicular                                                             
+Por motivo de pre- emergencia o emergencia ambiental declarada por las
+entidades  de  gobierno pertinentes, el titular del vehículo asegurado
+que   sea   directamente   afectado   por   la  restricción  vehicular
+correspondiente,  tendrá derecho a un vehículo de reemplazo por el día
+(24  horas)  el  día que su vehículo asegurado no pudiese circular por
+dicha restricción.                                                    
+.                                                                     
+El  vehículo  tendrá  un  copago  de  $4.000  IVA  incluido por el día
+requerido  (no  incluye  peajes,  bencina  ni  TAG)  En caso de no ser
+posible  arrendar un vehículo, la compañía de asistencia le facilitara
+un  medio  alternativo  de  transporte  convencional  con un límite de
+costo económico de la prestación de vehículo de reemplazo.            
+.                                                                     
+El  asegurado deberá contactar a la compañía de asistencia antes de la
+media  noche  (00:00)  previa  al  comienzo  de dicha restricción. Los
+clientes  que  hayan  coordinado  el  vehículo  de  reemplazo en dicho
+momento  serán  contactados  a  la  mañana  siguiente  para retirar su
+vehículo  en el lugar especificado por la compañía antes de las 10 hrs
+de  la  mañana.  El  vehículo  será de tipo básico. Este servicio sólo
+aplica  a  vehículos  de  uso  particular. El asegurado responderá por
+cualquier  infracción,  falta,  multas,  delito  o similares que pueda
+ocasionar por motivos del uso del vehículo de reemplazo.              
+El contrato de arriendo siempre se realizara entre el beneficiario del
+servicio  (el  asegurado)  y la empresa de alquiler de automóviles que
+la  compañía de asistencia designe. Para que este derecho sea efectivo
+es  necesario  que  el beneficiario cumpla con todas y cada una de las
+obligaciones que le exija la arrendadora:                             
+ú Firma de contrato                                                   
+ú Entrega de Garantía por daños (solo Boucher de tarjeta de crédito)  
+ú Pago diario por concepto de TAG en Santiago.                        
+ú  Pago  de combustible no restituido (el vehículo debe devolverse con
+la misma cantidad de combustible con el que fue entregado)            
+.                                                                     
+DEFINICIONES DE LA COBERTURA:                                         
+ROBO CON FUERZA EN LAS COSAS, DE CONTENIDO                            
+Se  refiere  a la perdida de objetos asegurados contenidos al interior
+del  vehículo  asegurado, con ocasión de un robo con fuerza que afecte
+al vehículo asegurado.                                                
+.                                                                     
+ROBO CON VIOLENCIA EN LAS PERSONAS, DE CONTENIDO                      
+Se  refiere  a la perdida de objetos asegurados contenidos al interior
+del  vehículo  asegurado,  con  ocasión  de un asalto al conductor del
+vehículo  asegurado.  Cobertura  válida sólo dentro de los límites del
+territorio de la República de Chile.                                  
+.                                                                     
+VIGENCIA DE LA COBERTURA                                              
+La  vigencia de la cobertura para cada asegurado comenzará a contar de
+30  días  desde  la  fecha  de  contratación  del  seguro. Será anual,
+renovable  automáticamente por periodos iguales y sucesivos de un año,
+salvo  que  la  compañía,  el  asegurado  o el contratante manifiesten
+mediante carta certificada, su interés de ponerle término.            
+-En  cada renovación la compañía podrá ajustar el monto de la prima en
+razón  de  la  siniestralidad  que  haya  presentado el bien asegurado
+durante   la   vigencia  anual  anterior,  previo  aviso  dirigido  al
+domicilio  registrado por el asegurado en la compañía, con al menos 30
+días anteriores a la renovación.                                      
+.                                                                     
+MATERIA ASEGURADA                                                     
+Los objetos asegurados son los siguientes:                            
+- Una Cartera                                                         
+- Una Billetera                                                       
+- Un par de Lentes de Sol                                             
+- Un par de Lentes Ópticos                                            
+- Un Celular                                                          
+- Un Bolso o Maletín                                                  
+- Una Silla de Auto de Bebe                                           
+- Un Coche de Bebe                                                    
+- Un Reproductor de Música                                            
+MONTO ASEGURADO: El monto asegurado máximo es de $ 210.000 por evento.
+Número de Eventos al año: 2                                           
+.                                                                     
+DENUNCIA DE SINIESTRO:                                                
+-  En caso de siniestro de robo de objetos asegurados contenidos en el
+vehículo  asegurado,  el asegurado o conductor estará obligado a dejar
+constancia  inmediata de los hechos en la unidad policial más cercana,
+salvo  en  caso  de  imposibilidad física debidamente justificada, y a
+tomar  las providencias del caso para el debido resguardo del vehículo
+y  de  sus  accesorios,  sin  perjuicio  de  lo  anterior, la compañía
+exigirá  que  el  asegurado  efectué  la  denuncia  respectiva ante la
+autoridad competente.                                                 
+-  El asegurado o conductor deberá dar aviso por escrito a la compañía
+en forma inmediata, salvo fuerza mayor.                               
+-  Es  requisito  indispensable  para obtener la indemnización en este
+caso,  que  el  asegurado  o  reclamante presente todos los siguientes
+antecedentes  a  la  compañía  en  una o más oportunidades, las que en
+conjunto no podrán exceder de 30 días:                                
+-  Formulario  de  aviso  del  siniestro  a  la  compañía, firmado por
+asegurado  y  presentado  a  la  compañía  en forma inmediata al robo,
+salvo caso de fuerza mayor.                                           
+- Copia de documento que identifique al asegurado.                    
+- Documento de identificación del vehículo asegurado.                 
+-   Declaración   jurada   simple  con  el  relato  de  los  hechos  e
+identificación de los elementos sustraídos con ocasión del robo.      
+-  Copia  de  la  constancia  inmediata  de los hechos realizada en la
+unidad policial más cercana.                                          
+-  Copia  de  la  denuncia  efectuada ante alguna autoridad competente
+(carabineros   de   Chile,   investigaciones   de  Chile,  tribunales,
+ministerio  público),  en  la  cual  se  encuentren  identificados los
+objetos robados.                                                      
+- Copia, cuando corresponda, de la denuncia por escrito efectuada ante
+la  compañía  de  telefonía  móvil  que  corresponda,  con  indicación
+expresa  de  bloqueo  de  la  línea  telefónica,  clave  de  bloquea e
+identificación del aparato robado (modelo y serie).                   
+-  Cualquier  otro  antecedente  requerido por la compañía que resulte
+indispensable para realizar la liquidación del siniestro.             
+-  Estos  documentos deben ser presentados en cualquier sucursal de la
+compañía a lo largo del país.                                         
+-  Los  avisos  de  siniestro  deben ser firmados personalmente por el
+asegurado,  por  su  representante  legal en el caso de corresponder a
+una persona jurídica o por el conductor del vehículo.                 
+-  En  caso  de robo de objetos asegurados, contenidos al interior del
+vehículo  asegurado, se indemnizara su valor a nuevo, sujeto al límite
+señalado  en  las  condiciones  particulares  y  una vez denunciado el
+siniestro  de  la  forma  señalada  en el artículo 13 del condicionado
+general POL 1 2013 0562.                                              
+- La compañía estará facultada, a su exclusiva opción, para indemnizar
+en  dinero  la  perdida  de los objetos robados, o bien reponerlos por
+otros de similares características.                                   
+.                                                                     
+COMUNICACIONES Y ENVÍO DE INFORMACIÓN                                 
+El contratante y/o asegurado facultan expresamente a la Compañía, para
+que  ésta  les  envíe  la  copia  de  su póliza y demás documentos que
+forman  parte  integrante  de  la  misma  a  la  dirección  de  correo
+electrónico   señalado   en   este   instrumento,  hecho  lo  cual  se
+considerará  haberse  dado  debido  cumplimiento  a lo dispuesto en el
+artículo  519 del Código de Comercio. Sin perjuicio de lo anterior, el
+contratante  y/o  asegurado  podrán  siempre solicitar una copia de la
+misma impresa en papel en el domicilio de la Compañía.                
+Asimismo,  contratante  y/o  asegurado  aceptan  expresamente  que  la
+Compañía  los pueda contactar a sus teléfonos celulares, y direcciones
+de  correo  electrónico,  para  darles  la  bienvenida;  los avisos de
+renovación  de  su  póliza;  informarles respecto de las cuotas de las
+primas  impagas  o  que  estén  por  vencer;  enviarles  los avisos de
+cobranza  o para cualquier otro fin que la compañía estime conveniente
+para su debida y oportuna información.                                
+Finalmente,  el  contratante y/o asegurado facultan a la compañía para
+enviar   a  la  dirección  de  correo  electrónico  señalada  en  este
+instrumento  todas  las comunicaciones previstas en el Decreto Supremo
+N  1055, en especial, aquellas que digan relación con el procedimiento
+de liquidación de siniestros.                                         
+.                                                                     
+OTRAS CONDICIONES                                                     
+La presente póliza de seguro ha sido emitida por Bci Seguros Generales
+S.A.   en   consideración   a  las  declaraciones  formuladas  por  el
+contratante  y/o  asegurado  en  la  Propuesta  que  le  ha servido de
+antecedente,  la  que  forma  parte integrante del contrato, el que se
+rige  de  acuerdo  a  los  términos  previstos  en  estas  condiciones
+particulares  y  en  los  textos depositados en la Superintendencia de
+Valores  y  Seguros  bajos  los  códigos  POL  y CAD identificados más
+arriba.                                                               
+Se  deja especial constancia que las declaraciones del contratante y/o
+asegurado  constituyen  para  Bci  Seguros  Generales S.A. información
+determinante  del riesgo que se le propuso asegurar y en consecuencia,
+si  cualquiera  de  éstos  hubieren incurrido en un inexcusable error,
+reticencia  o inexactitud, el asegurador tendrá derecho para rescindir
+el  contrato,  de acuerdo a lo dispuesto en el artículo 525 del Código
+de Comercio.                                                          
+DECLARACIONES DEL ASEGURADO                                           
+En  cumplimiento  al artículo 518 del código de comercio, el asegurado
+ha  expresado  el  interés  asegurable  respecto al objeto del seguro,
+dicha   declaración   se  encuentra  contendida  en  el  Item  Interés
+asegurable  de  la  sección Materia Asegurada de la Propuesta, la cual
+forma parte integrante de la presente póliza.                         
+En cumplimiento al artículo 524, número 1 y artículo 525 del código de
+Comercio,   el   asegurado   ha   declarado   sinceramente  todas  las
+circunstancias  que  permiten identificar la cosa asegurada y apreciar
+la  extensión  del  riesgo,  las  que  se  encuentran contenidas en la
+propuesta, la cual forma parte integrante de la presente póliza.      
+DOMICILIO                                                             
+Para  todos  los  efectos  derivados  de  este contrato de seguro, las
+partes fijan como domicilio la ciudad y comuna de Santiago.           
+TELEFONOS DE UTILIDAD                                                 
+En  caso de requerir el uso de la cobertura de Asistencia al Vehículo,
+los teléfonos de cada Compañía son:                                   
+*   600  6000  292  *  Desde  Celulares  :  02-  26799700  *  Servicio
+Internacional: 56 2 23690043 (Solicitar Cobro revertido)              
+Si  desea  comunicarse  con  su  compañía  de seguros puede hacerlo al
+siguiente   número  de  su  Casa  Matriz  en  Santiago,  donde  podrán
+otorgarle la información que requiera:                                
+BCI Seguros: 02- 26799200                                             
+ACCESORIOS VEHICULOS NUEVOS                                           
+Se considerarán cubiertos los accesorios no desmontables instalados al
+vehículo e individualizados según el siguiente detalle:               
+Fabricante y/o                                                        
+Factura/Guia Despacho de Venta Nro.                                   
+Fecha Factura/Guia Despacho                                           
+.                                                                     
+
