@@ -2,40 +2,28 @@
 
 ## Descripción de los Datos:
 
-Existen 3 Dataset que se componen de la siguiente información:
+la base de datos es un archivo pickle, de un dataframe
 
-+ DS_POLIZA_COBERTURA: (UTF-8, sep=";")
-  + ID_POLIZA (string): id que identifica al seguro como unico
-  + COBERTURA (string): Concepto particular del cual se resguarda el asegurado
-  + COND_GENERAL (string:list): lista de Condicionados Generales Utilizados en la póliza. Este registro es único a nivel de ID_POLIZA
-  + MONTO_ASEGURADO (float): Monto max en UF del cual se resguarda para una determinada cobertura
-  + PRIMA_PACTADA (float): Monto en UF que se acuerda con el asegurado por dicha cobertura
+### **Sus columnas son las siguientes:**
+<hr>
 
-Registro Unico: ID_POLIZA + COBERTURA
+**ID_SINIESTRO**: (string) identificador único del siniestro reportado.
 
-+ DS_POLIZA_VEHICULO: (UTF-8, sep=";")
-    + ID_POLIZA (string): id que identifica al seguro como unico
-    + FANOFA_T05 (int): Año de Fabricación del Vehiculo
-    + MARCA (string): Marca del vehiculo. si existe más de una forma de escribirlo, estará separado por ";"
-    + MODELO (string): Modelo del vehiculo
+**ID_POLIZA**: (string) identeificador único de la póliza.
 
-Registro Unico: ID_POLIZA
+**RELATO**: (string) texto anonimizado, del relato del siniestro.
 
-+ DS_SINIESTRO: (UTF-8, sep=";")
-  + ID_SINIESTRO (string): id que identifica de manera única al Accidente/Siniestro
-  + ID_POLIZA (string): id que identifica al seguro como unico
-  + COBERTURA_AFECTADA (string): Concepto del seguro que se vio afectado por el Siniestro/Accidente
-  + PROVISION_INICIAL (float): valor en UF, asociado al dinero que congelar la empresa aseguradora producto del accidente
-  + GASTO_REAL (float): Gasto real en UF. a medida que el gasto se concreta, la provisión se libera.
+**MODELO**: (string) Modelo del vehiculo registrado.
 
-Archivos Adicionales:
+**MARCA**: (string) Marca del vehiculo registrado.
 
-+ CondGeneral: (Carpeta)
-  + Contiene archivos PDF asociado a las condiciones generales por la cual se rige el seguro ("contrato). está completamente ligado a la columna "COND_GENERAL" del archivo DS_POLIZA_COBERTURA.
+**ANIO**: (string) Año de Fabricación del modelo.
 
-+ CondParticular: (Carpeta)
-  + Contiene en archivos tipo txt, todas las condiciones particulares (Empresa-Cliente) que se agregan a las condiciones generales. Cada ID_POLIZA, posee un archivo con sus propias particularidades.
+**COBERTURA_POLIZA**: ( list(string) ) lista de string asociado a las coberturas homologadas de la póliza.
 
-+ RelatoDenuncio: (Carpeta)
-  + Contiene en archivos tipo txt, todos los relatos de denuncios asociados a los Siniestros. cada ID_SINIESTRO debe poseer uno de estos.
+**COBERTURA_SINIESTRO**: ( list(string) ) lista de string asociado a las coberturas homologadas afectadas en el siniestro.
+
+**PROVISION_INICIAL**: ( list(float) ) lista de valores en UF de la provision inicial asociada a la COBERTURA_SINIESTRO.
+
+**GASTO_UF**: ( list(float) ) Gasto real en UF asociada a la COBERTURA_SINIESTRO.
 

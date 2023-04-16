@@ -1,6 +1,0 @@
-VLM                                                                             
-SE DEJA EL VEHICULO ESTACIONADO Y CUANDO SE RETORNA SE ENCUENTRA QUE ESTABA     
-COLISIONADO.                                                                    
-DAÑOS PROPIOS: PARTE DELANTERA DERECHA DAÑADA, PARACHOQUES DELANTERO ABOLLADO Y 
-HUNDIDO, NEBLINERO DELANTERO DERECHA HUNDIDO.                                   
-DEDUCIBLE: 5 UF//// GESTIÓN: 14467714.                                          

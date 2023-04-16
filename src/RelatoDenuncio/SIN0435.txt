@@ -1,9 +1,0 @@
-SNT                                                                             
-IBA MANEJANDO EN DIRECCION AL NORTE POR LA MANO DERECHA PARA CAMBIARME DE       
-PISTA, Y QUEDÓ EN EL PUNTO CIEGO UN VEHICULO QUE VENIA A LA DERECHA,            
-COLISIONANDOLO.                                                                 
-DAÑOS PROPIOS: TAPABARRO DELANTERO LADO DERECHO ABOLLADO.                       
-DAÑOS TERCERO: PARACHOQUE DELANTERO ABOLLADO, TAPABARRO DELANTERO ABOLLADO,     
-OPTICO DELANTERO IZQUIERDO ABOLLADO, BOMBA DE AGUA QUEBRADA, PUERTA IZQUIERDA   
-DELANTERA ABOLLADA.                                                             
-DEDUCIBLE:3UF/GESTION:14476580                                                  
